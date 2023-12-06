@@ -1,0 +1,36 @@
+table,tr,td{
+    border: 1.5px;
+    border-collapse: collapse; 
+    box-shadow: 0 4px 8px rgba(255, 4, 4, 0.1);
+    
+}
+tr{
+    width: 90px;
+    height: 90px;
+    border: 2px;
+    background-color: #99ccff;
+    opacity: 0.6;
+     
+}
+td{
+    width: 90px; 
+    border: 3px solid #b3b3ff;
+    text-align:center;
+    
+    
+}
+
+body {
+    background-color: #ffe6cc;
+}
+
+
+.cosa{
+    width: 40px;
+}
+
+h1{
+    font-size: 35px;
+    font-family: 'Bebas Neue', sans-serif;
+    text-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
